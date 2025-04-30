@@ -1,0 +1,3 @@
+Choose either "gh" or "git" for git_cmd below then paste into your CLI:
+
+[git_cmd] repo edit aegersz/REPO_NAME --visibility private
